@@ -1,6 +1,6 @@
 Modified MySQL configuration to use less memory, which may be beneficial in situations where peak performance is not important.
 
-The customizations applied in a Dockerfile:
+The customizations applied in the Dockerfile:
 ```
 FROM mysql:5.6
 
